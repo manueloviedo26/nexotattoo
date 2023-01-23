@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://www.nexotattoo.com/wp-sitemap.xml
+Sitemap: http://www.nexotattoo.com/wp-sitemap.xml
